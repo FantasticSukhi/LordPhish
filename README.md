@@ -1,11 +1,11 @@
-<h2>Hi, I'm Gr3n0xX! <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi, I'm BLACKMAMBA! <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 And I'm create the most complete phishing tool
 
  
  
-<img src="https://img.shields.io/github/stars/Black-Hell-Team/LordPhish?style=flat-square">
-<img src="https://img.shields.io/github/issues/Black-Hell-Team/LordPhish?color=red&style=flat-square">
-<img src="https://img.shields.io/github/forks/Black-Hell-Team/LordPhish?color=teal&style=flat-square">
+<img src="https://img.shields.io/github/stars/FantasticSukhi/LordPhish?style=flat-square">
+<img src="https://img.shields.io/github/issues/FantasticSukhi/LordPhish?color=red&style=flat-square">
+<img src="https://img.shields.io/github/forks/fantasticSukhi/LordPhish?color=teal&style=flat-square">
 
 ## Tested On:
 Android 9: 4.4.111-17263988
@@ -38,7 +38,7 @@ apt-get install wget -y
 
 apt-get install git -y
 
-git clone https://github.com/Black-Hell-Team/LordPhish.git
+git clone https://github.com/FantasticSukhi/LordPhish.git
 
 cd LordPhish
 
@@ -53,7 +53,7 @@ Aurthor assumes that the users would use lordphish **legally**. Aurthor won't be
 
 <a href=https://graysuit.github.io>
 <img src=https://img.shields.io/discord/873544368982720593?label=discord >
-<code><a href="https://t.me/Gr3n0xX" target="_blank">
+<code><a href="https://t.me/CREATIVITY_MAMBA" target="_blank">
 <img src="https://img.shields.io/badge/TELEGRAM-GROUP-red?style=for-the-badge&logo=telegram"></a></code>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 <p align="center">
