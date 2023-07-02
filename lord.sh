@@ -78,7 +78,7 @@ user_interrupt(){
         sleep 2
         printf "\e[0m\n"
         printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44>"
-        printf " \e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m]\e[0m\e[1;96m Visit github.com/Ch4r0nN \e[0m"
+        printf " \e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m]\e[0m\e[1;96m Visit github.com/FantasticSukhi \e[0m"
         printf "\e[0m\n"
         exit 1
 
@@ -108,9 +108,9 @@ echo -e "$blue
              \n"
 echo
 echo
-printf "      \e[1;97m  .:.  Version 2.0 Beta  .:.  \e[0m\n"
+printf "      \e[1;97m  .:.  Version 2.0 Meta  .:.  \e[0m\n"
 printf "\n"
-printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Ch4r0nN \e[0m\n"
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by FantasticSukhi \e[0m\n"
 printf "\n"
 printf "     \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by LordPhish.  ::\e[0m\n"
@@ -127,7 +127,7 @@ printf "\n"
 echo -e $R"      ╔═══════════╗"
 echo -e "$R    ╔═╝$W███████████$R╚═╗"
 echo -e "$R   ╔╝$W███████████████$R╚╗"
-echo -e "$R   ║$W█████\033[1;32mCh4r0nN \033[00m\033[1;37m████$R║"
+echo -e "$R   ║$W█████\033[1;32mMamba \033[00m\033[1;37m████$R║"
 echo -e "$R   ║$W█████████████████$R║    \e[1;36m•\e[1;31m◈\e[1;36m•▬ ▬ ▬ ▬ ▬ ▬ ▬•\e[1;31m◈\e[1;36m•▬ ▬ ▬ ▬ ▬ ▬ ▬•\e[1;31m◈\e[1;36m•. \e[00m\e[1;31m"
 echo -e "$R   ║$W█████████████████$R║            \e[30;48;5;196m\e[1;32m\e[1;36m Lord\e[0m \e[30;48;5;39m\e[1;31m Phish\e[0m\e[1;31m"
 echo -e "$R   ║$W█$R╔$W█████████████$R╗$W█$R║    \e[1;36m•\e[1;31m◈\e[1;36m•▬ ▬ ▬ ▬ ▬ ▬ ▬•\e[1;31m◈\e[1;36m•▬ ▬ ▬ ▬ ▬ ▬ ▬•\e[1;31m◈\e[1;36m•. \e[00m\e[1;31m"
@@ -146,7 +146,7 @@ echo -e "$R║$W██████$R║$W█████████$R║\033[00
 echo
 printf "      \e[1;97m  .:.  Version 2.0 Beta  .:.   \e[0m\n"
 printf "\n"
-printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Gr3n0xX/Ch4r0nN \e[0m\n"
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by BLACKMAMBA \e[0m\n"
 printf "\n"
 printf "\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;96m Instagram\e[0m      \e[1;92m[\e[0m\e[1;77m18\e[0m\e[1;92m]\e[0m\e[1;96m eBay   \e[0m          \e[1;92m[\e[0m\e[1;77m35\e[0m\e[1;92m]\e[0m\e[1;96m Gmail   \e[0m   \n"  
 
@@ -410,11 +410,11 @@ am start -a android.intent.action.VIEW https://youtube.com/channel/UCxTE4c-xqpAq
 
 elif [[ $menu_option == T ]]; then 
 banner
-am start -a android.intent.action.VIEW https://t.me/Ch33chSec
+am start -a android.intent.action.VIEW https://t.me/TELE_WALI_FRIENDSHIP
 
 elif [[ $menu_option == F ]]; then
 banner
-am start -a android.intent.action.VIEW https://github.com/grenoxx
+am start -a android.intent.action.VIEW https://github.com/FantasticSukhi
 
 else
 printf "\e[1;93m [!] Invalid option!\e[0m\n"
