@@ -1,27 +1,7 @@
 #!/usr/bin/env bash
-# Youtube Channel: Ch33ch_Sec
-# Inspired by the linux choice shellphish
-# Lordphish the best phishing tool!!!!
-# Github: https://github.com/grenoxx
-# Telegram: Ch33chOficial
-# 68 Webpages !!!!!!
-
-# Tunneling opitions:
-# ngrok
-# Localhost
-# LocalHostRun
-
-# Thanks for pages:
-# Pages by: Gr3n0xX
-# Pages by: Tahmid Rayat
-# Pages by: A1S0N
-# Pages by: Zeus
-# Pages by: Darkmidius
-# Pages by: AdvPhidhing devs
 
 # MIT license
-
-# Copyright (c) 2021 Gr3n0xX
+# Copyright (c) 2021 FantasticSukhi
 
 # Permission is granted, free of charge, to anyone who obtains a copy
 # of this software and associated documentation files (the "Software"), to handle
